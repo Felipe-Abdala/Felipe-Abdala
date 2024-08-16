@@ -1,11 +1,9 @@
-## Olá, devs! 👋
+## Hello, world!
 ### 
 Sou o Felipe Abdala, tenho 24 anos, moro em SP e atualmente, trabalho com Data analytics.
 - 💻 Cursando Pós-graduação em Data Analytics.
 - 📚 Sou formado em Ciências Contábeis.
 - 🏹 Estudando Cloud Computing (certificação).
-
-- 💻 Sou formada em Sistemas de Informação e faço pós graduação em Arquitetura de Sistemas .NET com Azure na FIAP;
 
 ***
 ### Tecnologias
