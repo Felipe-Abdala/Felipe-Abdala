@@ -1,8 +1,8 @@
 ## Saudações!
 #### Sou Felipe Abdala, tenho 24 anos e moro em São Paulo (SP).
->- 💻 Cursando Pós-graduação em Data Analytics.
+>- 💻 Cursando Pós-graduação em Data Analytics pela FIAP.
 >- 💼 Atualmente, trabalho com análise de dados.
->- 📚 Sou formado em Ciências Contábeis.
+>- 📚 Sou formado em Ciências Contábeis pela USP.
 >- 🏹 Estudando Cloud Computing (certificação) e cursos de Análise e engenharia de dados pela Alura.
 >- 👓 Sou um entusiasta de ler, café, xadrez e viajar.
 
