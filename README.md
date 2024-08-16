@@ -20,6 +20,9 @@
 
 ___
 
+
+![Snake animation](https://github.com/seu-usuário-aqui/Felipe-Abdala/blob/output/github-contribution-grid-snake.svg)
+
 ### Status Git
 <div>
   <a href="https://github.com/Felipe-Abdala">
