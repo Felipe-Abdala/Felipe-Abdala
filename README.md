@@ -6,6 +6,7 @@
 >- 🏹 Estudando Cloud Computing (certificação) e cursos de Análise e engenharia de dados pela Alura.
 >- 👓 Sou um entusiasta de ler, café, xadrez e viajar.
 
+
 ***
 ### Tecnologias
 <div style="display: inline_block"><br> 
@@ -26,13 +27,14 @@ ___
   <img height="180cm" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Abdala&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
-
-___
-
+***
 ### Contatos
-Você pode me contatar por e-mail ou pelo LinkedIn, e por lá pode conhecer um pouco mais das minhas experiências profissionais e acadêmicas!
 <div>
   <a href = "mailto:felipeabdala@outlook.com"><img loading="lazy" height="20" width="60" img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/Felipe-Abdalai" target="_blank"><img loading="lazy" height="20" width="70" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+>- Podemos manter contato por e-mail ou pelo LinkedIn, e por lá você conhecer um pouco mais das minhas experiências profissionais e acadêmicas!
+
+
+
 
